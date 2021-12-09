@@ -1,2 +1,2 @@
-# utamakura-ChatAppSampleOnWebSocket
+# ChatAppSampleOnWebSocket
 Amplify+React+Node.jsで作ったWebSocket通信の簡単なチャットアプリのサンプルです
